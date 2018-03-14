@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Seventies">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name= "android:textStyle">italic</item>
+        <item name="android:textColor">#E5E7E9</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:padding">@dimen/android_padding</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/category_seventies</item>
+    </style>
+
+    <style name="Eighties">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#E5E7E9</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:padding">@dimen/android_padding</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/category_eighties</item>
+    </style>
+
+    <style name="Nineties">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#E5E7E9</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:padding">@dimen/android_padding</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/category_nineties</item>
+    </style>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <!-- Category name for seventies  -->
+    <string name="category_seventies">All 70"'"s</string>
+
+    <!-- Category name for eighties  -->
+    <string name="category_eighties">All 80"'"s</string>
+
+    <!-- Category name for nineties  -->
+    <string name="category_nineties">All 90"'"s</string>
+
+</resources>

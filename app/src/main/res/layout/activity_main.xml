@@ -1,0 +1,26 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#D5D8DC"
+    tools:context="com.example.android.musicalstructure.MainActivity">
+
+    <TextView
+        android:id="@+id/seventies"
+        style="@style/Seventies"
+        android:text="@string/category_seventies"
+        android:onClick="openSeventiesList"/>
+
+    <TextView
+        android:id="@+id/eighties"
+        style="@style/Eighties"
+        android:text="@string/category_eighties" />
+
+    <TextView
+        android:id="@+id/nineties"
+        style="@style/Nineties"
+        android:text="@string/category_nineties" />
+
+</LinearLayout>
